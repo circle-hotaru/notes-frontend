@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# notes-frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Full Stack open 2021](https://fullstackopen.com/)
 
 ## Available Scripts
 
